@@ -1,0 +1,2 @@
+module UserDoctorsHelper
+end
